@@ -1,0 +1,151 @@
+Customer_ID,Age,Gender,City,Annual_Income,Customer_Segment,Existing_Product,Product_Category,Purchase_Amount,Purchase_Frequency,Last_Purchase_Days,Avg_Order_Value,Total_Orders,Discount_Used,Preferred_Channel,Customer_Tenure,Support_Calls,Satisfaction_Score,Cross_Sell_Accepted
+C0001,23,Female,Pune,1186213.0,Gold,Credit Card,Banking,391123,24,280,200000,44,Yes,Online,1,4.0,2.0,Yes
+C0002,46,Female,Ahmedabad,1083985.0,Silver,Insurance,Insurance,345726,20,113,69145,27,Yes,Online,9,5.0,5.0,Yes
+C0003,34,Male,Pune,639004.0,Silver,Home Loan,Loans,55707,7,310,18569,23,No,Mobile App,3,5.0,1.0,No
+C0004,32,Female,Pune,1766807.0,Platinum,Car Loan,Loans,105814,3,339,105814,3,Yes,Online,7,8.0,3.0,No
+C0005,59,Male,Bengaluru,1802651.0,Silver,Personal Loan,Loans,114842,21,350,38280,45,Yes,Mobile App,8,5.0,2.0,Yes
+C0006,38,Female,Bengaluru,1171132.0,Silver,Insurance,Insurance,175017,9,17,175017,15,No,Online,7,10.0,5.0,No
+C0007,26,Male,Nagpur,2343927.0,Platinum,Home Loan,Loans,468828,29,136,117207,10,No,Mobile App,10,5.0,2.0,Yes
+C0008,25,Male,Ahmedabad,830205.0,Silver,Car Loan,Loans,263744,13,25,200000,49,Yes,Mobile App,10,5.0,2.0,Yes
+C0009,61,Female,Hyderabad,2469266.0,Gold,Personal Loan,Loans,295049,13,59,200000,44,No,Online,7,9.0,4.0,Yes
+C0010,58,Male,Delhi,999320.0,Silver,Car Loan,Loans,483479,1,153,200000,41,Yes,Branch,8,4.0,5.0,Yes
+C0011,33,Male,Pune,1609609.0,Gold,Home Loan,Loans,15211,30,158,15211,24,Yes,Mobile App,13,8.0,1.0,No
+C0012,34,Female,Bengaluru,777477.0,Silver,Credit Card,Banking,350899,27,85,87724,36,Yes,Mobile App,8,1.0,5.0,Yes
+C0013,22,Female,Kolkata,2087524.0,Gold,Car Loan,Loans,241708,22,116,200000,16,Yes,Mobile App,7,10.0,3.0,Yes
+C0014,50,Male,Jaipur,1314410.5,Silver,Savings Account,Banking,479700,1,37,200000,22,No,Mobile App,4,1.0,1.0,No
+C0015,24,Male,Ahmedabad,2232525.0,Silver,Credit Card,Banking,416366,24,98,104091,27,No,Branch,3,9.0,5.0,Yes
+C0016,30,Male,Ahmedabad,504227.0,Silver,Home Loan,Loans,386793,24,128,128931,7,No,Online,14,0.0,1.0,Yes
+C0017,33,Male,Jaipur,660658.0,Silver,Savings Account,Banking,346911,8,48,69382,1,No,Branch,8,1.0,4.0,Yes
+C0018,45,Female,Hyderabad,1839528.0,Silver,Savings Account,Banking,209693,29,147,69897,30,Yes,Online,7,0.0,2.0,Yes
+C0019,51,Male,Pune,1565353.0,Silver,Savings Account,Banking,31289,19,258,6257,31,Yes,Mobile App,1,8.0,1.0,No
+C0020,56,Male,Nagpur,1943557.0,Platinum,Savings Account,Banking,498667,20,297,99733,16,Yes,Branch,2,1.0,2.0,Yes
+C0021,59,Female,Pune,1567782.0,Gold,Credit Card,Banking,144258,30,344,36064,9,No,Branch,6,4.0,2.0,Yes
+C0022,33,Female,Jaipur,1144033.0,Silver,Car Loan,Loans,144041,19,36,72020,23,No,Online,10,1.0,1.0,Yes
+C0023,24,Male,Pune,282812.0,Gold,Insurance,Insurance,433397,10,340,86679,20,No,Online,12,9.0,5.0,No
+C0024,34,Female,Pune,1133444.0,Gold,Insurance,Insurance,184768,9,325,92384,44,No,Online,3,4.0,5.0,Yes
+C0025,53,Female,Pune,1649037.0,Gold,Fixed Deposit,Investment,73587,9,227,24529,11,Yes,Online,14,0.0,1.0,No
+C0026,45,Male,Chennai,1314410.5,Platinum,Fixed Deposit,Investment,198575,29,76,39715,36,Yes,Branch,12,5.0,5.0,Yes
+C0027,44,Male,Delhi,1131124.0,Platinum,Insurance,Insurance,135825,28,287,135825,23,Yes,Online,13,0.0,3.0,Yes
+C0028,48,Male,Chennai,1290888.0,Platinum,Personal Loan,Loans,88465,6,20,88465,25,Yes,Branch,1,5.0,4.0,Yes
+C0029,22,Female,Kolkata,349255.0,Silver,Insurance,Insurance,106255,28,143,26563,22,No,Mobile App,13,3.0,2.0,No
+C0030,24,Female,Chennai,733778.0,Silver,Personal Loan,Loans,98620,18,20,19724,17,No,Mobile App,14,5.0,1.0,No
+C0031,52,Male,Pune,1047248.0,Silver,Personal Loan,Loans,28271,4,267,7067,1,No,Branch,9,6.0,5.0,No
+C0032,60,Female,Hyderabad,772716.0,Platinum,Insurance,Insurance,476883,11,159,158961,33,No,Branch,15,9.0,3.0,No
+C0033,18,Female,Ahmedabad,979923.0,Gold,Car Loan,Loans,303375,14,281,101125,26,No,Online,4,10.0,4.0,Yes
+C0034,65,Male,Kolkata,2102984.0,Gold,Home Loan,Loans,359223,21,243,179611,33,Yes,Branch,10,5.0,4.0,Yes
+C0035,20,Male,Pune,1551993.0,Gold,Credit Card,Banking,427871,11,13,200000,10,No,Mobile App,10,1.0,2.0,Yes
+C0036,62,Male,Bengaluru,1860522.0,Silver,Home Loan,Loans,214533,21,336,107266,10,Yes,Branch,15,5.0,2.0,No
+C0037,60,Female,Kolkata,1295213.0,Silver,Fixed Deposit,Investment,68626,17,238,17156,9,No,Mobile App,12,7.0,1.0,No
+C0038,51,Female,Jaipur,2240928.0,Silver,Home Loan,Loans,140891,18,142,70445,41,Yes,Branch,15,7.0,2.0,No
+C0039,42,Male,Ahmedabad,1590959.0,Silver,Car Loan,Loans,47245,8,119,23622,10,Yes,Online,5,4.0,3.0,No
+C0040,62,Male,Mumbai,1117526.0,Silver,Fixed Deposit,Investment,225276,15,300,56319,50,No,Branch,9,6.0,1.0,No
+C0041,19,Female,Ahmedabad,1175006.0,Platinum,Home Loan,Loans,120040,25,249,40013,28,No,Mobile App,5,6.0,3.0,Yes
+C0042,60,Male,Ahmedabad,2490276.0,Gold,Savings Account,Banking,480491,15,289,120122,38,Yes,Mobile App,14,2.0,5.0,Yes
+C0043,42,Female,Pune,1840076.0,Silver,Personal Loan,Loans,115970,6,173,28992,21,No,Branch,8,0.0,3.0,No
+C0044,33,Male,Delhi,1190455.0,Silver,Insurance,Insurance,40975,18,16,40975,49,Yes,Mobile App,12,0.0,3.0,Yes
+C0045,28,Male,Pune,1164209.0,Silver,Home Loan,Loans,371721,22,189,123907,50,Yes,Branch,8,1.0,5.0,Yes
+C0046,58,Male,Hyderabad,1913689.0,Gold,Insurance,Insurance,108981,10,354,108981,38,Yes,Mobile App,15,9.0,4.0,Yes
+C0047,22,Female,Jaipur,422256.0,Platinum,Personal Loan,Loans,284311,26,190,71077,43,Yes,Branch,10,1.0,5.0,Yes
+C0048,57,Female,Nagpur,2076565.0,Silver,Credit Card,Banking,389720,21,139,77944,42,No,Branch,6,7.0,2.0,No
+C0049,60,Female,Jaipur,2140800.0,Silver,Credit Card,Banking,398465,8,313,99616,37,No,Online,14,1.0,3.0,No
+C0050,53,Male,Bengaluru,1333608.0,Platinum,Personal Loan,Loans,151621,16,142,30324,45,Yes,Online,3,3.0,3.0,Yes
+C0051,32,Female,Nagpur,2308653.0,Gold,Home Loan,Loans,420725,18,151,200000,6,Yes,Branch,8,3.0,4.0,Yes
+C0052,34,Male,Bengaluru,1637439.0,Silver,Personal Loan,Loans,373498,17,157,93374,18,Yes,Mobile App,9,5.0,4.0,Yes
+C0053,51,Female,Hyderabad,1157582.0,Silver,Insurance,Insurance,258859,18,302,86286,47,Yes,Online,12,2.0,2.0,Yes
+C0054,62,Male,Mumbai,780927.0,Silver,Personal Loan,Loans,28863,10,150,28863,36,No,Online,3,0.0,5.0,No
+C0055,43,Female,Mumbai,1023277.0,Gold,Savings Account,Banking,137371,16,34,34342,8,Yes,Mobile App,8,7.0,3.0,No
+C0056,57,Male,Jaipur,1290988.0,Silver,Savings Account,Banking,297590,19,306,74397,39,No,Branch,13,4.0,1.0,Yes
+C0057,58,Male,Pune,502624.0,Silver,Car Loan,Loans,393019,14,107,200000,49,No,Mobile App,10,4.0,5.0,Yes
+C0058,20,Male,Hyderabad,1314410.5,Silver,Home Loan,Loans,241193,18,150,48238,31,No,Mobile App,3,1.0,2.0,No
+C0059,45,Male,Delhi,1359622.0,Gold,Fixed Deposit,Investment,419841,3,102,83968,43,Yes,Mobile App,8,10.0,2.0,No
+C0060,36,Female,Hyderabad,1314410.5,Platinum,Fixed Deposit,Investment,166277,5,292,33255,48,Yes,Branch,14,1.0,1.0,Yes
+C0061,56,Female,Bengaluru,2086093.0,Gold,Savings Account,Banking,318543,17,166,200000,28,Yes,Online,5,8.0,4.0,Yes
+C0062,29,Female,Delhi,337012.0,Platinum,Fixed Deposit,Investment,357469,28,21,119156,37,No,Branch,14,9.0,5.0,Yes
+C0063,24,Male,Jaipur,2221366.0,Platinum,Personal Loan,Loans,219092,21,344,73030,21,No,Branch,7,7.0,1.0,Yes
+C0064,43,Male,Mumbai,2157678.0,Silver,Savings Account,Banking,169897,27,60,56632,21,No,Branch,7,8.0,1.0,No
+C0065,46,Female,Nagpur,466475.0,Silver,Credit Card,Banking,145014,20,148,29002,9,Yes,Online,6,7.0,4.0,No
+C0066,47,Male,Hyderabad,307354.0,Gold,Car Loan,Loans,218904,6,59,200000,15,Yes,Branch,12,4.0,5.0,Yes
+C0067,56,Male,Ahmedabad,1272281.0,Gold,Home Loan,Loans,294021,14,98,147010,25,Yes,Branch,5,7.0,4.0,Yes
+C0068,49,Male,Jaipur,1436312.0,Silver,Insurance,Insurance,161529,17,338,32305,38,No,Mobile App,13,4.0,1.0,Yes
+C0069,54,Female,Mumbai,2159853.0,Silver,Personal Loan,Loans,460921,25,123,200000,45,Yes,Branch,9,8.0,4.0,Yes
+C0070,39,Male,Kolkata,887975.0,Silver,Home Loan,Loans,24408,23,303,12204,33,No,Online,8,6.0,4.0,No
+C0071,62,Female,Kolkata,897437.0,Platinum,Savings Account,Banking,251148,24,320,83716,22,Yes,Branch,1,2.0,4.0,Yes
+C0072,36,Male,Pune,400571.0,Silver,Car Loan,Loans,40872,21,351,20436,41,Yes,Branch,6,7.0,5.0,No
+C0073,21,Female,Ahmedabad,947784.0,Gold,Insurance,Insurance,162006,28,167,162006,3,No,Branch,12,1.0,4.0,Yes
+C0074,61,Male,Delhi,962963.0,Silver,Credit Card,Banking,46402,14,318,9280,25,No,Mobile App,9,9.0,2.0,No
+C0075,28,Male,Nagpur,289415.0,Silver,Fixed Deposit,Investment,248926,9,280,82975,44,No,Branch,11,7.0,3.0,No
+C0076,42,Female,Hyderabad,1517190.0,Silver,Credit Card,Banking,206690,23,122,51672,7,No,Mobile App,7,4.0,4.0,Yes
+C0077,36,Male,Bengaluru,283965.0,Silver,Car Loan,Loans,458544,22,255,200000,39,No,Online,14,6.0,3.0,No
+C0078,20,Female,Hyderabad,657535.0,Gold,Insurance,Insurance,343868,25,226,200000,20,Yes,Online,11,10.0,2.0,No
+C0079,48,Female,Jaipur,1784517.0,Silver,Car Loan,Loans,268084,6,132,89361,11,No,Online,7,3.0,2.0,No
+C0080,52,Male,Hyderabad,1784171.0,Platinum,Savings Account,Banking,419545,25,136,104886,1,No,Branch,3,3.0,4.0,Yes
+C0081,57,Male,Jaipur,1230720.0,Gold,Home Loan,Loans,18120,21,168,3624,36,Yes,Mobile App,14,5.0,1.0,Yes
+C0082,24,Male,Jaipur,836267.0,Platinum,Savings Account,Banking,24509,21,60,8169,32,Yes,Branch,5,6.0,1.0,No
+C0083,44,Female,Chennai,898116.0,Silver,Home Loan,Loans,348367,23,316,200000,32,Yes,Mobile App,12,8.0,4.0,Yes
+C0084,35,Male,Pune,1790714.0,Silver,Car Loan,Loans,477748,8,204,159249,4,Yes,Branch,8,5.0,1.0,No
+C0085,31,Male,Bengaluru,462141.0,Gold,Fixed Deposit,Investment,179854,21,290,89927,9,Yes,Mobile App,11,5.0,1.0,No
+C0086,34,Male,Mumbai,261893.0,Gold,Personal Loan,Loans,455052,11,277,200000,9,Yes,Mobile App,4,2.0,5.0,Yes
+C0087,65,Female,Pune,1607995.0,Silver,Savings Account,Banking,96355,26,65,32118,4,Yes,Mobile App,6,3.0,5.0,Yes
+C0088,64,Female,Mumbai,707405.0,Silver,Home Loan,Loans,269156,12,23,134578,40,No,Mobile App,13,8.0,5.0,Yes
+C0089,38,Male,Hyderabad,702824.0,Silver,Home Loan,Loans,378503,28,42,94625,5,Yes,Online,8,6.0,4.0,Yes
+C0090,24,Male,Jaipur,2475316.0,Gold,Personal Loan,Loans,242877,18,221,48575,39,Yes,Branch,10,5.0,4.0,Yes
+C0091,60,Female,Jaipur,1994787.0,Platinum,Insurance,Insurance,54852,11,161,18284,28,No,Online,7,7.0,4.0,Yes
+C0092,21,Female,Chennai,655020.0,Silver,Insurance,Insurance,392341,3,285,130780,9,Yes,Branch,14,1.0,4.0,Yes
+C0093,27,Female,Chennai,1560505.0,Platinum,Personal Loan,Loans,59316,14,109,11863,33,Yes,Online,13,0.0,3.0,Yes
+C0094,57,Male,Delhi,1198579.0,Gold,Fixed Deposit,Investment,229978,4,319,45995,50,No,Online,6,4.0,5.0,Yes
+C0095,43,Male,Mumbai,275609.0,Silver,Credit Card,Banking,461058,10,337,200000,37,Yes,Mobile App,13,5.0,3.0,No
+C0096,54,Male,Delhi,2152728.0,Silver,Personal Loan,Loans,87527,7,167,29175,20,Yes,Online,9,6.0,4.0,No
+C0097,44,Female,Pune,2108550.0,Gold,Insurance,Insurance,227305,22,227,56826,39,Yes,Mobile App,1,1.0,3.0,Yes
+C0098,43,Male,Hyderabad,2291085.0,Silver,Car Loan,Loans,354769,10,113,118256,3,Yes,Online,2,10.0,5.0,No
+C0099,29,Male,Bengaluru,1626244.0,Platinum,Savings Account,Banking,9052,5,221,2263,48,No,Mobile App,13,4.0,3.0,Yes
+C0100,47,Male,Ahmedabad,1915437.0,Gold,Fixed Deposit,Investment,394043,22,10,200000,28,No,Mobile App,14,5.0,1.0,Yes
+C0101,47,Female,Pune,733072.0,Gold,Home Loan,Loans,15934,21,317,5311,11,Yes,Branch,12,6.0,3.0,No
+C0102,28,Male,Kolkata,1909965.0,Silver,Fixed Deposit,Investment,167673,13,171,55891,15,Yes,Mobile App,10,8.0,1.0,No
+C0103,56,Male,Jaipur,1240983.0,Silver,Savings Account,Banking,81778,12,89,27259,13,Yes,Online,13,5.0,2.0,Yes
+C0104,22,Female,Hyderabad,1605633.0,Silver,Fixed Deposit,Investment,333842,25,226,111280,10,No,Mobile App,10,9.0,4.0,Yes
+C0105,41,Female,Pune,561178.0,Gold,Personal Loan,Loans,247086,2,30,61771,3,Yes,Mobile App,10,5.0,3.0,Yes
+C0106,38,Female,Jaipur,1314410.5,Gold,Home Loan,Loans,481603,13,97,96320,42,Yes,Online,9,7.0,5.0,Yes
+C0107,46,Female,Chennai,2366231.0,Silver,Insurance,Insurance,95470,27,363,95470,16,Yes,Branch,15,5.0,1.0,Yes
+C0108,24,Female,Nagpur,469636.0,Platinum,Fixed Deposit,Investment,335766,14,169,111922,5,No,Branch,7,5.0,5.0,Yes
+C0109,63,Male,Ahmedabad,1717254.0,Platinum,Personal Loan,Loans,348961,3,305,87240,9,No,Mobile App,6,9.0,2.0,No
+C0110,19,Female,Bengaluru,641970.0,Gold,Insurance,Insurance,356512,27,186,89128,33,No,Online,6,2.0,5.0,Yes
+C0111,52,Male,Delhi,826990.0,Silver,Credit Card,Banking,45456,16,260,15152,7,No,Mobile App,13,3.0,2.0,No
+C0112,61,Male,Hyderabad,944321.0,Gold,Insurance,Insurance,234466,6,187,200000,27,No,Mobile App,3,2.0,5.0,Yes
+C0113,61,Female,Ahmedabad,1253145.0,Gold,Personal Loan,Loans,428951,15,189,107237,13,No,Branch,13,3.0,5.0,Yes
+C0114,41,Male,Pune,830485.0,Gold,Fixed Deposit,Investment,136073,6,247,136073,42,Yes,Branch,7,3.0,5.0,Yes
+C0115,19,Female,Kolkata,2084892.0,Gold,Savings Account,Banking,482366,15,179,200000,29,Yes,Branch,5,8.0,2.0,No
+C0116,39,Male,Hyderabad,368227.0,Silver,Personal Loan,Loans,493020,3,333,200000,46,Yes,Online,7,5.0,2.0,No
+C0117,31,Male,Hyderabad,2131570.0,Platinum,Car Loan,Loans,7753,23,132,7753,2,No,Online,8,2.0,4.0,Yes
+C0118,19,Male,Ahmedabad,2167273.0,Silver,Savings Account,Banking,63121,2,275,15780,39,Yes,Branch,2,3.0,4.0,No
+C0119,22,Male,Mumbai,1035651.0,Silver,Insurance,Insurance,355337,8,185,200000,34,No,Branch,6,9.0,4.0,No
+C0120,65,Female,Chennai,533365.0,Gold,Personal Loan,Loans,131419,9,298,131419,50,Yes,Online,6,0.0,3.0,No
+C0121,20,Female,Bengaluru,2257105.0,Gold,Insurance,Insurance,100566,21,235,50283,5,Yes,Online,14,5.0,4.0,Yes
+C0122,59,Male,Mumbai,1920272.0,Platinum,Fixed Deposit,Investment,289704,30,19,72426,17,No,Branch,6,4.0,3.0,Yes
+C0123,29,Female,Kolkata,2082706.0,Platinum,Home Loan,Loans,394707,9,174,98676,25,No,Branch,6,1.0,3.0,Yes
+C0124,38,Male,Hyderabad,2056097.0,Silver,Car Loan,Loans,436143,24,151,200000,35,Yes,Branch,2,6.0,1.0,No
+C0125,57,Female,Mumbai,2111886.0,Silver,Personal Loan,Loans,239424,23,181,200000,47,No,Mobile App,10,6.0,2.0,No
+C0126,20,Male,Chennai,921032.0,Silver,Savings Account,Banking,79857,13,225,15971,44,Yes,Online,11,5.0,5.0,Yes
+C0127,54,Male,Chennai,2137112.0,Silver,Personal Loan,Loans,200042,2,40,50010,49,No,Branch,10,9.0,2.0,No
+C0128,34,Female,Hyderabad,2343142.0,Gold,Car Loan,Loans,207892,4,135,41578,8,Yes,Mobile App,4,0.0,2.0,No
+C0129,38,Female,Kolkata,560596.0,Gold,Home Loan,Loans,95521,7,350,23880,6,Yes,Mobile App,8,1.0,2.0,No
+C0130,33,Female,Kolkata,1766208.0,Silver,Car Loan,Loans,122567,28,72,122567,13,Yes,Branch,5,2.0,2.0,Yes
+C0131,51,Female,Pune,611613.0,Gold,Savings Account,Banking,167157,26,246,41789,46,No,Mobile App,8,8.0,2.0,No
+C0132,58,Male,Kolkata,2203846.0,Silver,Insurance,Insurance,276245,21,283,92081,9,Yes,Branch,6,1.0,4.0,Yes
+C0133,32,Female,Hyderabad,891793.0,Platinum,Personal Loan,Loans,91327,27,364,45663,21,No,Online,1,1.0,5.0,Yes
+C0134,27,Male,Mumbai,2487569.0,Silver,Savings Account,Banking,268493,9,298,134246,38,No,Mobile App,9,2.0,3.0,No
+C0135,58,Male,Kolkata,1360047.0,Gold,Insurance,Insurance,115524,3,317,23104,27,No,Mobile App,1,0.0,5.0,Yes
+C0136,44,Female,Chennai,1497528.0,Silver,Home Loan,Loans,43258,16,226,43258,11,No,Online,5,3.0,4.0,Yes
+C0137,24,Female,Pune,1922338.0,Gold,Credit Card,Banking,403807,28,288,134602,33,Yes,Branch,6,5.0,3.0,Yes
+C0138,28,Female,Delhi,1467237.0,Silver,Home Loan,Loans,458070,5,128,91614,27,No,Online,4,1.0,1.0,No
+C0139,33,Male,Mumbai,2336122.0,Silver,Savings Account,Banking,52211,15,235,13052,33,No,Online,9,7.0,3.0,No
+C0140,34,Female,Mumbai,1448515.0,Silver,Car Loan,Loans,9287,29,69,9287,28,No,Branch,10,10.0,4.0,Yes
+C0141,35,Male,Ahmedabad,1460483.0,Silver,Savings Account,Banking,207558,18,282,41511,29,Yes,Online,10,3.0,3.0,Yes
+C0142,20,Male,Chennai,1084909.0,Silver,Car Loan,Loans,271926,18,21,67981,33,Yes,Mobile App,6,5.0,2.0,Yes
+C0143,43,Female,Kolkata,2412187.0,Gold,Credit Card,Banking,176948,15,84,35389,21,No,Mobile App,9,2.0,5.0,Yes
+C0144,37,Male,Nagpur,319780.0,Gold,Personal Loan,Loans,178664,19,299,178664,27,No,Branch,12,4.0,4.0,Yes
+C0145,27,Male,Pune,965179.0,Gold,Car Loan,Loans,334790,2,195,66958,50,Yes,Mobile App,12,9.0,4.0,Yes
+C0146,48,Male,Bengaluru,1982080.0,Silver,Insurance,Insurance,111897,11,314,27974,33,Yes,Mobile App,8,6.0,2.0,No
+C0147,40,Female,Bengaluru,1565973.0,Gold,Credit Card,Banking,245996,16,280,49199,22,No,Online,11,8.0,4.0,Yes
+C0148,40,Female,Nagpur,1119386.0,Silver,Insurance,Insurance,374616,8,246,93654,21,No,Online,5,4.0,3.0,No
+C0149,40,Female,Jaipur,864365.0,Gold,Personal Loan,Loans,27054,29,41,9018,46,No,Mobile App,7,6.0,3.0,No
+C0150,33,Male,Kolkata,1389263.0,Silver,Credit Card,Banking,62266,18,301,12453,48,Yes,Mobile App,14,4.0,5.0,Yes
